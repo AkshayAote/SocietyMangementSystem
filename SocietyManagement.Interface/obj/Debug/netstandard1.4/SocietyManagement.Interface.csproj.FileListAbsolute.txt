@@ -1,0 +1,12 @@
+D:\XamrinProject\SocietyManagement\SocietyManagement\SocietyManagement.Interface\bin\Debug\netstandard1.4\SocietyManagement.Interface.deps.json
+D:\XamrinProject\SocietyManagement\SocietyManagement\SocietyManagement.Interface\bin\Debug\netstandard1.4\SocietyManagement.Interface.dll
+D:\XamrinProject\SocietyManagement\SocietyManagement\SocietyManagement.Interface\bin\Debug\netstandard1.4\SocietyManagement.Interface.pdb
+D:\XamrinProject\SocietyManagement\SocietyManagement\SocietyManagement.Interface\bin\Debug\netstandard1.4\SocietyManagement.Domain.dll
+D:\XamrinProject\SocietyManagement\SocietyManagement\SocietyManagement.Interface\bin\Debug\netstandard1.4\SocietyManagement.Domain.pdb
+D:\XamrinProject\SocietyManagement\SocietyManagement\SocietyManagement.Interface\obj\Debug\netstandard1.4\SocietyManagement.Interface.csprojResolveAssemblyReference.cache
+D:\XamrinProject\SocietyManagement\SocietyManagement\SocietyManagement.Interface\obj\Debug\netstandard1.4\SocietyManagement.Interface.AssemblyInfo.cs
+D:\XamrinProject\SocietyManagement\SocietyManagement\SocietyManagement.Interface\obj\Debug\netstandard1.4\SocietyManagement.Interface.dll
+D:\XamrinProject\SocietyManagement\SocietyManagement\SocietyManagement.Interface\obj\Debug\netstandard1.4\SocietyManagement.Interface.pdb
+D:\XamrinProject\SocietyManagement\SocietyManagement\SocietyManagement.Interface\obj\Debug\netstandard1.4\SocietyManagement.Interface.csproj.CoreCompileInputs.cache
+D:\XamrinProject\SocietyManagement\SocietyManagement\SocietyManagement.Interface\obj\Debug\netstandard1.4\SocietyManagement.Interface.AssemblyInfoInputs.cache
+D:\XamrinProject\SocietyManagement\SocietyManagement\SocietyManagement.Interface\obj\Debug\netstandard1.4\SocietyManagement.Interface.csproj.CopyComplete

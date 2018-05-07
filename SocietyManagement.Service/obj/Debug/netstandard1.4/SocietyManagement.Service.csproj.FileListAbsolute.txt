@@ -1,0 +1,16 @@
+D:\XamrinProject\SocietyManagement\SocietyManagement\SocietyManagement.Service\bin\Debug\netstandard1.4\SocietyManagement.Service.deps.json
+D:\XamrinProject\SocietyManagement\SocietyManagement\SocietyManagement.Service\bin\Debug\netstandard1.4\SocietyManagement.Service.dll
+D:\XamrinProject\SocietyManagement\SocietyManagement\SocietyManagement.Service\bin\Debug\netstandard1.4\SocietyManagement.Service.pdb
+D:\XamrinProject\SocietyManagement\SocietyManagement\SocietyManagement.Service\bin\Debug\netstandard1.4\SocietyManagement.Domain.dll
+D:\XamrinProject\SocietyManagement\SocietyManagement\SocietyManagement.Service\bin\Debug\netstandard1.4\SocietyManagement.Infrastructure.dll
+D:\XamrinProject\SocietyManagement\SocietyManagement\SocietyManagement.Service\bin\Debug\netstandard1.4\SocietyManagement.Interface.dll
+D:\XamrinProject\SocietyManagement\SocietyManagement\SocietyManagement.Service\bin\Debug\netstandard1.4\SocietyManagement.Domain.pdb
+D:\XamrinProject\SocietyManagement\SocietyManagement\SocietyManagement.Service\bin\Debug\netstandard1.4\SocietyManagement.Infrastructure.pdb
+D:\XamrinProject\SocietyManagement\SocietyManagement\SocietyManagement.Service\bin\Debug\netstandard1.4\SocietyManagement.Interface.pdb
+D:\XamrinProject\SocietyManagement\SocietyManagement\SocietyManagement.Service\obj\Debug\netstandard1.4\SocietyManagement.Service.csprojResolveAssemblyReference.cache
+D:\XamrinProject\SocietyManagement\SocietyManagement\SocietyManagement.Service\obj\Debug\netstandard1.4\SocietyManagement.Service.AssemblyInfo.cs
+D:\XamrinProject\SocietyManagement\SocietyManagement\SocietyManagement.Service\obj\Debug\netstandard1.4\SocietyManagement.Service.dll
+D:\XamrinProject\SocietyManagement\SocietyManagement\SocietyManagement.Service\obj\Debug\netstandard1.4\SocietyManagement.Service.pdb
+D:\XamrinProject\SocietyManagement\SocietyManagement\SocietyManagement.Service\obj\Debug\netstandard1.4\SocietyManagement.Service.csproj.CoreCompileInputs.cache
+D:\XamrinProject\SocietyManagement\SocietyManagement\SocietyManagement.Service\obj\Debug\netstandard1.4\SocietyManagement.Service.AssemblyInfoInputs.cache
+D:\XamrinProject\SocietyManagement\SocietyManagement\SocietyManagement.Service\obj\Debug\netstandard1.4\SocietyManagement.Service.csproj.CopyComplete

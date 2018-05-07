@@ -1,0 +1,9 @@
+D:\XamrinProject\SocietyManagement\SocietyManagement\SocietyManagement.Domain\bin\Debug\netstandard1.4\SocietyManagement.Domain.deps.json
+D:\XamrinProject\SocietyManagement\SocietyManagement\SocietyManagement.Domain\bin\Debug\netstandard1.4\SocietyManagement.Domain.dll
+D:\XamrinProject\SocietyManagement\SocietyManagement\SocietyManagement.Domain\bin\Debug\netstandard1.4\SocietyManagement.Domain.pdb
+D:\XamrinProject\SocietyManagement\SocietyManagement\SocietyManagement.Domain\obj\Debug\netstandard1.4\SocietyManagement.Domain.csprojResolveAssemblyReference.cache
+D:\XamrinProject\SocietyManagement\SocietyManagement\SocietyManagement.Domain\obj\Debug\netstandard1.4\SocietyManagement.Domain.AssemblyInfo.cs
+D:\XamrinProject\SocietyManagement\SocietyManagement\SocietyManagement.Domain\obj\Debug\netstandard1.4\SocietyManagement.Domain.dll
+D:\XamrinProject\SocietyManagement\SocietyManagement\SocietyManagement.Domain\obj\Debug\netstandard1.4\SocietyManagement.Domain.pdb
+D:\XamrinProject\SocietyManagement\SocietyManagement\SocietyManagement.Domain\obj\Debug\netstandard1.4\SocietyManagement.Domain.csproj.CoreCompileInputs.cache
+D:\XamrinProject\SocietyManagement\SocietyManagement\SocietyManagement.Domain\obj\Debug\netstandard1.4\SocietyManagement.Domain.AssemblyInfoInputs.cache

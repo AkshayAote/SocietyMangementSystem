@@ -1,0 +1,14 @@
+D:\XamrinProject\SocietyManagement\SocietyManagement\SocietyManagement.Infrastructure\bin\Debug\netstandard1.4\SocietyManagement.Infrastructure.deps.json
+D:\XamrinProject\SocietyManagement\SocietyManagement\SocietyManagement.Infrastructure\bin\Debug\netstandard1.4\SocietyManagement.Infrastructure.dll
+D:\XamrinProject\SocietyManagement\SocietyManagement\SocietyManagement.Infrastructure\bin\Debug\netstandard1.4\SocietyManagement.Infrastructure.pdb
+D:\XamrinProject\SocietyManagement\SocietyManagement\SocietyManagement.Infrastructure\bin\Debug\netstandard1.4\SocietyManagement.Domain.dll
+D:\XamrinProject\SocietyManagement\SocietyManagement\SocietyManagement.Infrastructure\bin\Debug\netstandard1.4\SocietyManagement.Interface.dll
+D:\XamrinProject\SocietyManagement\SocietyManagement\SocietyManagement.Infrastructure\bin\Debug\netstandard1.4\SocietyManagement.Domain.pdb
+D:\XamrinProject\SocietyManagement\SocietyManagement\SocietyManagement.Infrastructure\bin\Debug\netstandard1.4\SocietyManagement.Interface.pdb
+D:\XamrinProject\SocietyManagement\SocietyManagement\SocietyManagement.Infrastructure\obj\Debug\netstandard1.4\SocietyManagement.Infrastructure.csprojResolveAssemblyReference.cache
+D:\XamrinProject\SocietyManagement\SocietyManagement\SocietyManagement.Infrastructure\obj\Debug\netstandard1.4\SocietyManagement.Infrastructure.AssemblyInfo.cs
+D:\XamrinProject\SocietyManagement\SocietyManagement\SocietyManagement.Infrastructure\obj\Debug\netstandard1.4\SocietyManagement.Infrastructure.dll
+D:\XamrinProject\SocietyManagement\SocietyManagement\SocietyManagement.Infrastructure\obj\Debug\netstandard1.4\SocietyManagement.Infrastructure.pdb
+D:\XamrinProject\SocietyManagement\SocietyManagement\SocietyManagement.Infrastructure\obj\Debug\netstandard1.4\SocietyManagement.Infrastructure.csproj.CoreCompileInputs.cache
+D:\XamrinProject\SocietyManagement\SocietyManagement\SocietyManagement.Infrastructure\obj\Debug\netstandard1.4\SocietyManagement.Infrastructure.AssemblyInfoInputs.cache
+D:\XamrinProject\SocietyManagement\SocietyManagement\SocietyManagement.Infrastructure\obj\Debug\netstandard1.4\SocietyManagement.Infrastructure.csproj.CopyComplete
